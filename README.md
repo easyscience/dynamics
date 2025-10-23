@@ -7,6 +7,7 @@ This ecosystem is divided into source code repositories, documentation repositor
 ## Source code
 
 [EasyDynamicsApp](https://github.com/easyScience/easyQENSApp) - This is the main application repository. It is currently under construction.
+
 [EasyDynamicsLib](https://github.com/easyScience/easyQENSLib) - This repository contains the core library accessible through the Jupyter Notebook/Python.  
 
 ## Documentation
