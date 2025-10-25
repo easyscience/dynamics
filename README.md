@@ -1,4 +1,4 @@
-# EasyQENS
+# EasyDynamics
 Launching point for the EasyDynamics family of repositories
 
 This repository is just a document with links to other repositories, which constitute the building blocks of the EasyDynamics project, part of the larger [Easy Science](https://easyscience.software) framework.
