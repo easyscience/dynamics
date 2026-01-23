@@ -1,0 +1,11 @@
+[workspace]
+authors = ["henrikjacobsenfys <henrik.jacobsen.fys@gmail.com>"]
+channels = ["conda-forge"]
+name = "dynamics"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+copier = ">=9.11.1,<10"
