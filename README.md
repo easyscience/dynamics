@@ -1,21 +1,34 @@
-# EasyDynamics
-Launching point for the EasyDynamics family of repositories
+<p>
+  <picture>
+    <!-- light mode logo -->
+    <source media='(prefers-color-scheme: light)' srcset='https://raw.githubusercontent.com/easyscience/assets-branding/refs/heads/master/easydynamics/logos/light.svg'>
+    <!-- dark mode logo -->
+    <source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/easyscience/assets-branding/refs/heads/master/easydynamics/logos/dark.svg'>
+    <!-- default logo == light mode logo -->
+    <img src='https://raw.githubusercontent.com/easyscience/assets-branding/refs/heads/master/easydynamics/logos/light.svg' alt='EasyDynamics'>
+  </picture>
+</p>
 
-This repository is just a document with links to other repositories, which constitute the building blocks of the EasyDynamics project, part of the larger [Easy Science](https://easyscience.software) framework.
-This ecosystem is divided into source code repositories, documentation repositories, and dependent project repositories to help both developers and end-users interact with our tools.
+**EasyDynamics** is a scientific software for plotting and fitting QENS and INS powder data.
 
-## Source code
+<!-- HOME REPOSITORY SECTION -->
 
-[EasyDynamicsApp](https://github.com/easyscience/dynamics-app) - This is the main application repository. It is currently under construction.
+This repository serves as the central hub for the **EasyDynamics** family.
 
-[EasyDynamicsLib](https://github.com/easyscience/dynamics-lib) - This repository contains the core library accessible through the Jupyter Notebook/Python. It is currently under construction.
+**EasyDynamics** is developed as:
 
-## Documentation
 
-The documentation is currently under construction. 
+- 📦 Python library - repository [`dynamics-lib`](https://github.com/easyscience/dynamics-lib)
 
-## Main dependencies
 
-[EasyApp](https://github.com/easyScience/easyApp) - Application skeleton for the EasyScience framework, written in QML.
-[EasyCore](https://github.com/easyScience/easyCore) - Core library with fitting, minimizer, constraints, etc.
+
+- 🖥 Desktop application - repository [`dynamics-app`](https://github.com/easyscience/dynamics-app)
+
+
+### Useful Links:
+
+- 💡[Discussions](https://github.com/easyscience/) - the main
+  discussion forum for the whole EasyDynamics project.
+
+<!-- NON-HOME REPOSITORY SECTION -->
 

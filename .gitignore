@@ -1,3 +1,43 @@
-# pixi environments
-.pixi/*
-!.pixi/config.toml
+# Python
+__pycache__/
+.venv/
+.coverage
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# MkDocs
+docs/site/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Node
+node_modules/
+
+# QtCreator
+*.autosave
+
+# QtCreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCreator Python
+*.pyproject.user
+*.pyproject.user.*
+
+# QtCreator CMake
+CMakeLists.txt.user*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+*.app
+*.dmg
