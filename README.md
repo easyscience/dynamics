@@ -9,7 +9,7 @@
   </picture>
 </p>
 
-**EasyDynamics** is a scientific software for plotting and fitting QENS and INS powder data.
+**EasyDynamics** is a software for plotting and fitting QENS and INS powder data.
 
 <!-- HOME REPOSITORY SECTION -->
 
@@ -27,7 +27,7 @@ This repository serves as the central hub for the **EasyDynamics** family.
 
 ### Useful Links:
 
-- 💡[Discussions](https://github.com/easyscience/) - the main
+- 💡[Discussions](https://github.com/easyscience/dynamics) - the main
   discussion forum for the whole EasyDynamics project.
 
 <!-- NON-HOME REPOSITORY SECTION -->
